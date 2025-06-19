@@ -1,4 +1,4 @@
-from task3 import path_to_next
+from Project1_Path_to_Follow_to_Clean_Dirt import path_to_next
 
 # Declare magic variables at the start of the program
 WALL = "W"
